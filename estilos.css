@@ -1,0 +1,33 @@
+body{
+    background: #25292b;
+    color:#fff;
+}
+/* regla de asterisco que le hemo puesto pra espacios   
+}
+* {margin:0;
+    padding:0;
+}
+    */
+    /* selector de etiqueta*/
+h1,h2.h3 {
+        color:red;
+    }
+    p {
+        color:blue;
+    }
+    h1{
+        font-size:40px
+    }
+    a{
+        color: aqua;
+    }
+/* selectores rango*/
+a [href="Reirse Toca¡Ja,ja,ja!"]{
+        color:green;
+        font-size: 20px;
+}
+menu {
+    background:#006;
+    color:#fff;
+    width:50%
+}
